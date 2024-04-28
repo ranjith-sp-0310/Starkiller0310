@@ -8,7 +8,7 @@ Greetings, fellow human! I'm a tech wizard with mad skills in network security, 
 
 * 🌍  I'm based in Tamilnadu
 * ✉️  You can contact me at [ranjith.xdr@gmail.com](mailto:ranjith.xdr@gmail.com)
-* 🚀  I'm currently working on [Elektra-XDR](http://(s)://elektra-xdr.tech)
+* 🚀  I'm currently working on [Elektra-XDR](https://elektra-xdr.tech)
 * 🧠  I'm learning Zero Trust Technologies
 * 🤝  I'm open to collaborating on Cloud technology and Information Security Management.
 
