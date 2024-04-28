@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud Ops
 ---------
 
-Greetings, fellow human! I'm a tech wizard with mad skills in network security, Linux server admin, SIEM, network admin, and endpoint security. I design and implement secure systems that keep the bad guys out. Please think of me as your cybersecurity superhero! Check out my GitHub profile for some cool stuff. Let's collaborate to save the world (or at least your organization) from cyber-attacks!
+Greetings, fellow human! I'm a tech wizard with mad skills in network security, Linux servers, SIEM, Network administration, and Endpoint security. I design and implement secure systems that keep the bad guys out. Please think of me as your cybersecurity superhero! Check out my GitHub profile for some cool stuff. Let's collaborate to save the world (or at least your organization) from cyber-attacks!
 
 * 🌍  I'm based in Tamilnadu
 * ✉️  You can contact me at [ranjith.xdr@gmail.com](mailto:ranjith.xdr@gmail.com)
 * 🚀  I'm currently working on [Elektra-XDR](http://(s)://elektra-xdr.tech)
 * 🧠  I'm learning Zero Trust Technologies
-* 🤝  I'm open to collaborating on Cloud Technolgies and Information Security Management
+* 🤝  I'm open to collaborating on Cloud technology and Information Security Management.
 
 ### Skills
 
