@@ -1,7 +1,7 @@
 Hi, My name is Ranjith SP
 ==================================================================================================================================
 
-SRE
+Site Reliability Engineer
 ---------
 
 Greetings, fellow human! I'm a tech wizard with mad skills in network security, Linux servers, SIEM, Network administration, and Endpoint security. I design and implement secure systems that keep the bad guys out. Please think of me as your cybersecurity superhero! Check out my GitHub profile for some cool stuff. Let's collaborate to save the world (or at least your organization) from cyber-attacks!
